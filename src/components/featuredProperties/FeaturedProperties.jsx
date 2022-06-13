@@ -9,9 +9,9 @@ const FeaturedProperties = () => {
           alt=""
           className="featuredPropertyImg"
         />
-        <span className="featuredPropertyName">Aparthotel Stare Miasto</span>
-        <span className="featuredPropertyCity">Madrid</span>
-        <span className="featuredPropertyPrice">Starting from $120</span>
+        <span className="featuredPropertyName">Sea Beach</span>
+        <span className="featuredPropertyCity">Cox's Bazar</span>
+        <span className="featuredPropertyPrice">Starting from $100</span>
         <div className="featuredPropertyRating">
           <button>8.9</button>
           <span>Excellent</span>
@@ -23,9 +23,9 @@ const FeaturedProperties = () => {
           alt=""
           className="featuredPropertyImg"
         />
-        <span className="featuredPropertyName">Comfort Suites Airport</span>
-        <span className="featuredPropertyCity">Austin</span>
-        <span className="featuredPropertyPrice">Starting from $140</span>
+        <span className="featuredPropertyName">Lalbag Kella</span>
+        <span className="featuredPropertyCity">Dhaka</span>
+        <span className="featuredPropertyPrice">Starting from $10</span>
         <div className="featuredPropertyRating">
           <button>9.3</button>
           <span>Exceptional</span>
@@ -37,8 +37,8 @@ const FeaturedProperties = () => {
           alt=""
           className="featuredPropertyImg"
         />
-        <span className="featuredPropertyName">Four Seasons Hotel</span>
-        <span className="featuredPropertyCity">Lisbon</span>
+        <span className="featuredPropertyName">Sunderban</span>
+        <span className="featuredPropertyCity">Satkhira-Khulna</span>
         <span className="featuredPropertyPrice">Starting from $99</span>
         <div className="featuredPropertyRating">
           <button>8.8</button>
@@ -51,8 +51,8 @@ const FeaturedProperties = () => {
           alt=""
           className="featuredPropertyImg"
         />
-        <span className="featuredPropertyName">Hilton Garden Inn</span>
-        <span className="featuredPropertyCity">Berlin</span>
+        <span className="featuredPropertyName">Taz Mahol</span>
+        <span className="featuredPropertyCity">India</span>
         <span className="featuredPropertyPrice">Starting from $105</span>
         <div className="featuredPropertyRating">
           <button>8.9</button>
