@@ -5,6 +5,7 @@ import "./list.css"
 import { useLocation } from 'react-router-dom';
 import { format } from 'date-fns';
 import { DateRange } from 'react-date-range';
+import SearchItem from '../../components/searchItem/SearchItem';
 
 const List = () => {
 
@@ -79,13 +80,21 @@ const List = () => {
                   Room
                 </span>
                 <input type="number" min={1} className='listOptionInput' placeholder={options.room} />
-              </div>              
+              </div>        
               </div>
             </div>
-
+            <button>Search</button> 
           </div>
           <div className="listResult">
-
+              <SearchItem/>
+              <SearchItem/>
+              <SearchItem/>
+              <SearchItem/>
+              <SearchItem/>
+              <SearchItem/>
+              <SearchItem/>
+              <SearchItem/>
+              <SearchItem/>
           </div>
         </div>
       </div>
